@@ -1,0 +1,9 @@
+{
+  "name": "121 to 75 Playbook",
+  "short_name": "Playbook",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#E3E6E8",
+  "theme_color": "#E3E6E8",
+  "icons": [{ "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }]
+}
